@@ -1,0 +1,6 @@
+.venv/
+car-damage-detection-dataset/
+data/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
